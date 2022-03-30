@@ -1,6 +1,16 @@
-## iOS 커리어 스타터 캠프
+# 📱 <만국박람회> 시연 영상
 
-### 만국박람회 프로젝트 저장소
+> 파리 만국박람회의 정보와 한국의 출품작을 살펴볼 수 있는 앱
 
-- 이 저장소를 자신의 저장소로 fork하여 프로젝트를 진행합니다
+https://user-images.githubusercontent.com/71127966/160791840-fd709406-2b13-44f3-b87b-b98de744bf4d.mp4
 
+<br>
+
+# ✨ 핵심 키워드
+
+- MVC 패턴
+- JSON Parsing
+- ViewController 생명주기
+- UITableView
+- 다이나믹 타입, 보이스오버
+- 스토리보드, 오토레이아웃
